@@ -29,10 +29,4 @@ This is a powerful command-line tool for activating Windows operating systems us
 
 ---
 
-## Disclaimer
-
-This tool is intended for testing and educational purposes only. Use it responsibly and comply with Microsoft’s licensing terms.
-
----
-
 © 2025 MR MONSIF H4CK3R
